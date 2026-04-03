@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Bindu Kalyani
 
-Welcome to my GitHub!
+#### Welcome to my GitHub!
 
 I'm a software engineer who enjoys building clean backend systems and solving real-world problems through code.  
 I like turning complex ideas into simple, reliable solutions and growing through every challenge.
