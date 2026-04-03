@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bindu Kalyani
+# 👋 Hi, I'm Bindu
 
 Welcome to my GitHub!
 
