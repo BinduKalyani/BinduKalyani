@@ -12,4 +12,4 @@ I like turning complex ideas into simple, reliable solutions and growing through
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bindu-kalyani-guntupalli)
