@@ -1,15 +1,26 @@
-## 👋 Hi, I'm Bindu Kalyani
+## Hey, I'm Bindu 👋
 
-#### Welcome to my GitHub!
+I build backend systems that *don’t break when things get real.*
 
-I'm a software engineer who enjoys building clean backend systems and solving real-world problems through code.  
-I like turning complex ideas into simple, reliable solutions and growing through every challenge.
+Most of my work lives behind the scenes - APIs, databases, and services that quietly do their job well.
+I enjoy solving problems where the solution isn’t obvious at first, then turning it into something simple and reliable.
 
-- 📍 Chicago, IL  
-- 🎓 Information Systems @ Northern Illinois University  
-- 🌱 Growing through consistency, one commit at a time  
-- 🔍 Writing code that is simple, scalable, and meaningful  
+💡 What I care about:
+- Writing code that scales without becoming messy
+- Designing systems that are easy to understand later (not just today)
+- Learning by building - not just watching tutorials
+
+📍 Chicago, IL  
+🎓 Information Systems @ Northern Illinois University  
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bindu-kalyani-guntupalli)
+### ⚙️ Current Focus
+- Backend engineering (APIs, system design)
+- Writing cleaner, more maintainable code
+- Building projects that solve *real problems*
+
+---
+
+### 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bindu%20Kalyani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
