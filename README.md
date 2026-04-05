@@ -23,4 +23,4 @@ I enjoy solving problems where the solution isn’t obvious at first, then turni
 ---
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bindu%20Kalyani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bindu%20Kalyani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bindu-kalyani-guntupali)
