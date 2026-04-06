@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=650&lines=Backend+Engineer;Java+%26+Spring+Boot;Scalable+Systems;Data+Modeling+%26+System+Design;Machine+Learning+%26+Data+Analysis;Clean+%26+Reliable+Code" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=650&lines=Backend+Engineer;Java+%26+Spring+Boot;Scalable+Systems;Data+Modeling+%26+System+Design;Machine+Learning+%26+Data+Analysis;Clean+%26+Reliable+Code&v=1" />
 </p>
 
 <p align="center">
