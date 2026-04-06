@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- <b>Software Engineer @ Street Care (BME)</b>
+ <b>Software Engineer @ Street Care</b>
 </p>
 
 <p align="center">
