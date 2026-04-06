@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Software Engineer @ Street Care (Bright Mind Enrichment)
+ <sub><b>Software Engineer @ Street Care (Bright Mind Enrichment)</b></sub>
 </p>
 
 <p align="center">
