@@ -1,7 +1,7 @@
 <h1 align="center">Bindu Kalyani</h1>
 
 <p align="center">
-  I build <b>scalable backend systems</b> that remain reliable under pressure.
+  I build scalable backend systems that remain reliable under pressure.
 </p>
 
 <p align="center">
