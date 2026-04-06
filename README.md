@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Backend Engineer | Java & Spring Boot</b>
+  <b>Software Engineer @ Street Care (Bright Mind Enrichment)</b>
 </p>
 
 <p align="center">
